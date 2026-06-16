@@ -16,6 +16,9 @@ def get_driver():
     if browser == "chrome":
         options = webdriver.ChromeOptions()
         options.add_argument("--start-maximized")
+        options.add_argument("--headless=new")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
         driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()),options=options)
 
     elif browser == "firefox":
