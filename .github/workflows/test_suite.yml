@@ -1,0 +1,60 @@
+name: Parabank Automation Tests
+
+on:
+  push:
+    branches:
+      - main
+
+  pull_request:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  tests:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # Checkout repository
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Install dependencies
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Create reports directory
+      - name: Create Reports Folder
+        run: mkdir -p reports
+
+      # Run PyTest Tests
+      - name: Run Tests
+        run: |
+          pytest \
+          --html=reports/report.html \
+          --self-contained-html
+
+      # Upload HTML Report
+      - name: Upload Test Report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pytest-report
+          path: reports/report.html
+
+      # Show test summary in GitHub Actions
+      - name: Test Summary
+        if: always()
+        run: |
+          echo "PyTest execution completed."
