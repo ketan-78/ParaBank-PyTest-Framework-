@@ -1,0 +1,214 @@
+2026-06-15 15:48:08,528 - INFO - ===== Test Session Started =====
+2026-06-15 15:48:17,554 - INFO - Attempting Login
+2026-06-15 15:48:19,757 - INFO - Registration
+2026-06-15 15:48:24,217 - INFO - Overview
+2026-06-15 15:48:26,234 - INFO - Bill PAyment for Account No. 13566
+2026-06-15 15:48:29,157 - INFO - Logging Out
+2026-06-15 15:48:45,201 - INFO - Attempting Login
+2026-06-15 15:48:48,163 - INFO - Registration
+2026-06-15 15:48:54,568 - INFO - Opening New Account
+2026-06-15 15:49:20,668 - INFO - Attempting Login
+2026-06-15 15:49:22,201 - INFO - Registration
+2026-06-15 15:49:25,846 - INFO - Fund Transfer
+2026-06-15 15:49:28,657 - INFO - Logging Out
+2026-06-15 15:50:03,345 - INFO - Attempting Login
+2026-06-15 15:50:30,202 - INFO - Registration
+2026-06-15 15:50:41,659 - INFO - Loan Request
+2026-06-15 15:50:43,746 - INFO - Logging Out
+2026-06-15 15:51:00,827 - INFO - Attempting Login
+2026-06-15 15:51:02,660 - INFO - Registration
+2026-06-15 15:51:06,445 - INFO - Logging Out
+2026-06-15 15:51:19,772 - INFO - Attempting Login
+2026-06-15 15:51:21,448 - INFO - Registration
+2026-06-15 15:51:24,450 - INFO - Opening New Account
+2026-06-15 15:51:27,665 - INFO - Logging Out
+2026-06-15 15:51:41,822 - INFO - Attempting Login
+2026-06-15 15:51:46,762 - INFO - Registration
+2026-06-15 15:51:54,733 - INFO - Overview
+2026-06-15 15:51:56,240 - INFO - Logging Out
+2026-06-15 15:52:10,060 - INFO - Attempting Login
+2026-06-15 15:52:12,269 - INFO - Registration
+2026-06-15 15:52:22,852 - INFO - Tansactions Details
+2026-06-15 15:52:24,280 - INFO - Tansactions Details by ID
+2026-06-15 15:52:24,527 - INFO - Tansactions Details
+2026-06-15 15:52:25,819 - INFO - Tansactions Details by Date
+2026-06-15 15:52:26,062 - INFO - Tansactions Details
+2026-06-15 15:52:27,168 - INFO - Tansactions Details by Period
+2026-06-15 15:52:27,668 - INFO - Tansactions Details
+2026-06-15 15:52:34,904 - INFO - Tansactions Details by Amount
+2026-06-15 15:52:35,272 - INFO - Logging Out
+2026-06-15 15:52:50,322 - INFO - Attempting Login
+2026-06-15 15:52:54,936 - INFO - Registration
+2026-06-15 15:53:05,154 - INFO - Updating Profile
+2026-06-15 15:53:10,032 - INFO - Logging Out
+2026-06-15 15:53:15,490 - INFO - ===== Test Session Finished =====
+2026-06-15 15:59:12,091 - INFO - ===== Test Session Started =====
+2026-06-15 15:59:18,194 - INFO - Attempting Login
+2026-06-15 15:59:46,581 - INFO - Registration
+2026-06-15 15:59:53,049 - INFO - Overview
+2026-06-15 15:59:57,999 - INFO - Bill PAyment for Account No. 15342
+2026-06-15 16:00:01,432 - INFO - Logging Out
+2026-06-15 16:00:15,323 - INFO - Attempting Login
+2026-06-15 16:00:26,545 - INFO - Registration
+2026-06-15 16:00:30,111 - INFO - Opening New Account
+2026-06-15 16:00:32,217 - INFO - Overview
+2026-06-15 16:00:36,733 - INFO - Fund Transfer
+2026-06-15 16:00:39,782 - INFO - Overview
+2026-06-15 16:00:41,786 - INFO - Bill PAyment for Account No. 15897
+2026-06-15 16:00:45,504 - INFO - Tansactions Details
+2026-06-15 16:00:46,686 - INFO - Tansactions Details by ID
+2026-06-15 16:00:46,935 - INFO - Tansactions Details
+2026-06-15 16:00:47,922 - INFO - Tansactions Details by Date
+2026-06-15 16:00:48,218 - INFO - Tansactions Details
+2026-06-15 16:00:49,367 - INFO - Tansactions Details by Period
+2026-06-15 16:00:49,837 - INFO - Tansactions Details
+2026-06-15 16:00:50,975 - INFO - Tansactions Details by Amount
+2026-06-15 16:00:51,298 - INFO - Updating Profile
+2026-06-15 16:00:54,835 - INFO - Loan Request
+2026-06-15 16:00:57,413 - INFO - Logging Out
+2026-06-15 16:01:13,936 - INFO - Attempting Login
+2026-06-15 16:01:15,848 - INFO - Registration
+2026-06-15 16:01:20,391 - INFO - Fund Transfer
+2026-06-15 16:01:23,190 - INFO - Logging Out
+2026-06-15 16:01:39,570 - INFO - Attempting Login
+2026-06-15 16:01:42,146 - INFO - Registration
+2026-06-15 16:01:48,323 - INFO - Loan Request
+2026-06-15 16:01:49,943 - INFO - Logging Out
+2026-06-15 16:02:04,067 - INFO - Attempting Login
+2026-06-15 16:02:05,863 - INFO - Registration
+2026-06-15 16:02:12,928 - INFO - Logging Out
+2026-06-15 16:02:28,850 - INFO - Attempting Login
+2026-06-15 16:02:30,503 - INFO - Registration
+2026-06-15 16:02:35,071 - INFO - Opening New Account
+2026-06-15 16:02:37,317 - INFO - Logging Out
+2026-06-15 16:02:49,040 - INFO - Attempting Login
+2026-06-15 16:03:01,366 - INFO - Registration
+2026-06-15 16:03:07,149 - INFO - Overview
+2026-06-15 16:03:08,262 - INFO - Logging Out
+2026-06-15 16:03:25,034 - INFO - Attempting Login
+2026-06-15 16:03:26,910 - INFO - Registration
+2026-06-15 16:03:29,813 - INFO - Tansactions Details
+2026-06-15 16:03:33,833 - INFO - Tansactions Details by ID
+2026-06-15 16:03:34,062 - INFO - Tansactions Details
+2026-06-15 16:03:35,169 - INFO - Tansactions Details by Date
+2026-06-15 16:03:35,518 - INFO - Tansactions Details
+2026-06-15 16:03:36,345 - INFO - Tansactions Details by Period
+2026-06-15 16:03:36,839 - INFO - Tansactions Details
+2026-06-15 16:03:38,840 - INFO - Tansactions Details by Amount
+2026-06-15 16:03:39,238 - INFO - Logging Out
+2026-06-15 16:04:01,899 - INFO - Attempting Login
+2026-06-15 16:04:06,005 - INFO - Registration
+2026-06-15 16:04:12,435 - INFO - Updating Profile
+2026-06-15 16:04:15,875 - INFO - Logging Out
+2026-06-15 16:04:20,551 - INFO - ===== Test Session Finished =====
+2026-06-15 16:15:46,644 - INFO - ===== Test Session Started =====
+2026-06-15 16:16:02,662 - INFO - Attempting Login
+2026-06-15 16:16:05,666 - INFO - Registration
+2026-06-15 16:16:11,384 - INFO - Overview
+2026-06-15 16:16:13,713 - INFO - Bill PAyment for Account No. 14565
+2026-06-15 16:16:17,502 - INFO - Logging Out
+2026-06-15 16:16:31,451 - INFO - Attempting Login
+2026-06-15 16:16:33,304 - INFO - Registration
+2026-06-15 16:16:39,082 - INFO - Opening New Account
+2026-06-15 16:16:41,376 - INFO - Overview
+2026-06-15 16:16:42,499 - INFO - Fund Transfer
+2026-06-15 16:16:45,156 - INFO - Overview
+2026-06-15 16:16:47,380 - INFO - Bill PAyment for Account No. 15231
+2026-06-15 16:16:51,254 - INFO - Tansactions Details
+2026-06-15 16:16:52,947 - INFO - Tansactions Details by ID
+2026-06-15 16:16:53,415 - INFO - Tansactions Details
+2026-06-15 16:16:54,996 - INFO - Tansactions Details by Date
+2026-06-15 16:16:55,503 - INFO - Tansactions Details
+2026-06-15 16:16:56,902 - INFO - Tansactions Details by Period
+2026-06-15 16:16:58,031 - INFO - Tansactions Details
+2026-06-15 16:16:59,140 - INFO - Tansactions Details by Amount
+2026-06-15 16:16:59,627 - INFO - Updating Profile
+2026-06-15 16:17:03,799 - INFO - Loan Request
+2026-06-15 16:17:06,084 - INFO - Logging Out
+2026-06-15 16:17:19,331 - INFO - Attempting Login
+2026-06-15 16:17:21,476 - INFO - Registration
+2026-06-15 16:17:26,359 - INFO - Fund Transfer
+2026-06-15 16:17:29,049 - INFO - Logging Out
+2026-06-15 16:17:42,682 - INFO - Attempting Login
+2026-06-15 16:17:45,067 - INFO - Registration
+2026-06-15 16:17:52,788 - INFO - Loan Request
+2026-06-15 16:17:55,523 - INFO - Logging Out
+2026-06-15 16:18:10,110 - INFO - Attempting Login
+2026-06-15 16:18:12,061 - INFO - Registration
+2026-06-15 16:18:17,444 - INFO - Logging Out
+2026-06-15 16:18:31,653 - INFO - Attempting Login
+2026-06-15 16:18:35,812 - INFO - Registration
+2026-06-15 16:18:42,809 - INFO - Opening New Account
+2026-06-15 16:18:45,503 - INFO - Logging Out
+2026-06-15 16:19:00,306 - INFO - Attempting Login
+2026-06-15 16:19:02,269 - INFO - Registration
+2026-06-15 16:19:11,166 - INFO - Overview
+2026-06-15 16:19:13,830 - INFO - Logging Out
+2026-06-15 16:19:27,850 - INFO - Attempting Login
+2026-06-15 16:19:30,515 - INFO - Registration
+2026-06-15 16:19:40,093 - INFO - Tansactions Details
+2026-06-15 16:19:42,083 - INFO - Tansactions Details by ID
+2026-06-15 16:19:42,668 - INFO - Tansactions Details
+2026-06-15 16:19:44,196 - INFO - Tansactions Details by Date
+2026-06-15 16:19:45,054 - INFO - Tansactions Details
+2026-06-15 16:19:46,523 - INFO - Tansactions Details by Period
+2026-06-15 16:19:47,355 - INFO - Tansactions Details
+2026-06-15 16:19:49,409 - INFO - Tansactions Details by Amount
+2026-06-15 16:19:50,301 - INFO - Logging Out
+2026-06-15 16:20:04,738 - INFO - Attempting Login
+2026-06-15 16:20:07,092 - INFO - Registration
+2026-06-15 16:20:12,061 - INFO - Updating Profile
+2026-06-15 16:20:17,003 - INFO - Logging Out
+2026-06-15 16:20:24,567 - INFO - ===== Test Session Finished =====
+2026-06-15 16:23:38,329 - INFO - ===== Test Session Started =====
+2026-06-15 16:23:47,895 - INFO - Attempting Login
+2026-06-15 16:23:49,423 - INFO - Registration
+2026-06-15 16:23:53,000 - INFO - Loan Request
+2026-06-15 16:23:54,657 - INFO - Logging Out
+2026-06-15 16:24:02,394 - INFO - ===== Test Session Finished =====
+2026-06-15 16:24:24,937 - INFO - ===== Test Session Started =====
+2026-06-15 16:24:33,354 - INFO - Attempting Login
+2026-06-15 16:24:35,862 - INFO - Registration
+2026-06-15 16:24:41,853 - INFO - Loan Request
+2026-06-15 16:24:44,161 - INFO - Logging Out
+2026-06-15 16:24:49,670 - INFO - ===== Test Session Finished =====
+2026-06-15 16:50:20,960 - INFO - ===== Test Session Started =====
+2026-06-15 16:50:30,476 - INFO - Attempting Login
+2026-06-15 16:50:33,283 - INFO - Registration
+2026-06-15 16:50:46,531 - INFO - Loan Request
+2026-06-15 16:50:48,828 - INFO - Logging Out
+2026-06-15 16:50:53,805 - INFO - ===== Test Session Finished =====
+2026-06-15 16:53:13,688 - INFO - ===== Test Session Started =====
+2026-06-15 16:53:21,592 - INFO - Attempting Login
+2026-06-15 16:53:23,268 - INFO - Registration
+2026-06-15 16:53:28,329 - INFO - Loan Request
+2026-06-15 16:53:29,892 - INFO - Logging Out
+2026-06-15 16:53:33,368 - INFO - ===== Test Session Finished =====
+2026-06-15 16:55:29,361 - INFO - ===== Test Session Started =====
+2026-06-15 16:55:39,106 - INFO - Attempting Login
+2026-06-15 16:55:40,777 - INFO - Registration
+2026-06-15 16:55:45,598 - INFO - Loan Request
+2026-06-15 16:55:47,087 - INFO - Logging Out
+2026-06-15 16:55:51,279 - INFO - ===== Test Session Finished =====
+2026-06-15 17:01:33,273 - INFO - ===== Test Session Started =====
+2026-06-15 17:01:40,282 - INFO - Attempting Login
+2026-06-15 17:01:41,219 - INFO - Registration
+2026-06-15 17:01:43,414 - INFO - Loan Request
+2026-06-15 17:01:47,984 - INFO - ===== Test Session Finished =====
+2026-06-15 17:02:06,088 - INFO - ===== Test Session Started =====
+2026-06-15 17:02:12,742 - INFO - Attempting Login
+2026-06-15 17:02:14,524 - INFO - Registration
+2026-06-15 17:02:19,535 - INFO - Loan Request
+2026-06-15 17:02:23,592 - INFO - ===== Test Session Finished =====
+2026-06-15 17:04:49,349 - INFO - ===== Test Session Started =====
+2026-06-15 17:04:56,102 - INFO - Attempting Login
+2026-06-15 17:04:57,205 - INFO - Registration
+2026-06-15 17:05:01,793 - INFO - Loan Request
+2026-06-15 17:05:04,126 - INFO - Logging Out
+2026-06-15 17:05:07,578 - INFO - ===== Test Session Finished =====
+2026-06-15 17:05:40,225 - INFO - ===== Test Session Started =====
+2026-06-15 17:06:02,537 - INFO - Attempting Login
+2026-06-15 17:06:03,809 - INFO - Registration
+2026-06-15 17:06:08,194 - INFO - Loan Request
+2026-06-15 17:06:11,362 - INFO - Logging Out
+2026-06-15 17:06:14,936 - INFO - ===== Test Session Finished =====
