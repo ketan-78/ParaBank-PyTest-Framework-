@@ -13,8 +13,6 @@ class FindTransactions:
     def account_selection(self,account_index):
         logger.info(f"Tansactions Details")
         self.wait.element_click(Locators.TRANSACTIONS)
-        print("URL:", self.driver.current_url)
-        print("TITLE:", self.driver.title)
         account=self.wait.presence_of_element_r(Locators.ACCOUNT_SELECTION)
         
         select_account=Select(account)
