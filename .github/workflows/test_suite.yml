@@ -62,6 +62,10 @@ jobs:
           name: pytest-report
           path: reports/report.html
 
+      - name: Run Tests
+        run: |
+          pytest -v -s --maxfail=1
+    
       # Show test summary in GitHub Actions
       - name: Test Summary
         if: always()
