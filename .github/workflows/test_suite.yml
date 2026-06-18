@@ -7,7 +7,7 @@ on:
 
   pull_request:
     branches:
-      - main
+      - main      
 
   workflow_dispatch:
 
@@ -28,6 +28,17 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Checkout repository
+        uses: actions/checkout@v5
+      - name: Bypass Cloudflare for GitHub Action
+        uses: xiaotianxt/bypass-cloudflare-for-github-action@v2.1.0
+        with:
+          cf_account_id: ${{ secrets.CF_ACCOUNT_ID }}
+          cf_zone_id: ${{ secrets.CF_ZONE_ID }}
+          cf_api_token: ${{ secrets.CF_API_TOKEN }}
+      - name: Send request to Cloudflare-protected server
+        run: curl https://example.com/api
+      
       # Cache pip dependencies
       - name: Cache Dependencies
         uses: actions/cache@v4
