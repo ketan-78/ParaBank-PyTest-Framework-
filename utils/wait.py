@@ -40,6 +40,8 @@ class Wait():
         return self.wait.until(EC.visibility_of_all_elements_located(locator))
     
     def send_keys(self,locator,value):
+        print("Current URL:", self.driver.current_url)
+        print("Page title:", self.driver.title)
         self.wait.until(EC.visibility_of_element_located(locator)).send_keys(value)
 
     def presence_of_element_r(self,locator):
