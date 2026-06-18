@@ -31,19 +31,19 @@ class Wait():
         self.wait.until(lambda driver: len(select_option.options) >= 1)
 
     def web_element(self,locator):
-        return self.wait.until(EC.presence_of_element_located(locator))
+        return self.wait.until(EC.visibility_of_element_located(locator))
     
     def element_clear(self,locator:tuple):
         self.wait.until(lambda driver:self.driver.find_element(*locator).get_attribute("value") != "")
 
     def presence_of_elements(self,locator):
-        return self.wait.until(EC.presence_of_all_elements_located(locator))
+        return self.wait.until(EC.visibility_of_all_elements_located(locator))
     
     def send_keys(self,locator,value):
-        self.wait.until(EC.presence_of_element_located(locator)).send_keys(value)
+        self.wait.until(EC.visibility_of_element_located(locator)).send_keys(value)
 
     def presence_of_element_r(self,locator):
-        return self.wait.until(EC.presence_of_element_located(locator))
+        return self.wait.until(EC.visibility_of_element_located(locator))
     
     def loan_status(self,locator):
         self.wait.until(lambda driver:driver.find_element(*locator).text != "")  
